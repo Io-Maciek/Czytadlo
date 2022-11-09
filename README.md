@@ -1,4 +1,6 @@
 # Czytadło
-Stary projekt przechowywalni PDF w php i perl
+### Stary projekt przechowywalni PDF w php i perl.
+---
+Należy użyć Apache2, lub innego serweru www.
 
-**Dodatkowo należy stworzyć dwa puste foldery** `BIN` **oraz** `doc`
+**Wymaga należy stworzyć dwa puste foldery** `BIN` **oraz** `doc`

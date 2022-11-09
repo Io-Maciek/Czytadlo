@@ -1,0 +1,42 @@
+body {
+    /*background-color:#2F4F4F;*/
+    background: repeating-linear-gradient( 0deg, #2F4F4F, #106A11, #2F4F4F);
+    color: black;
+}
+/*
+a {
+    background-color: midnightblue;
+}
+
+a:link {
+    color: chartreuse;
+}
+
+    a:visited {
+        color: chartreuse;
+    }
+
+a:hover{
+    color: orangered;
+}
+*/
+    a:link {
+        color: black;
+        word-wrap: break-word;
+    }
+
+    a:visited {
+        color: black;
+        word-wrap: break-word;
+    }
+
+    a:hover {
+        color: white;
+        word-wrap: break-word;
+    }
+
+ul#listFile {
+    color: black;
+    font-size: 23px;
+}
+

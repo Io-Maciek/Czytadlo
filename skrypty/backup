@@ -1,0 +1,3 @@
+!#/bin/bash -w
+
+mv /var/www/html/BIN/$1 /var/www/html/doc/$1

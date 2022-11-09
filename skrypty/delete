@@ -1,0 +1,3 @@
+!#/bin/bash -w
+
+rm /var/www/html/BIN/$1

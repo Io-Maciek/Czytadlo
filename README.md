@@ -3,7 +3,7 @@
 ---
 Należy użyć Apache2, lub innego serweru www.
 
-**Wymaga należy stworzyć dwa puste foldery** `BIN` **oraz** `doc`
+**Wymaga stworzyć dwa puste foldery** `BIN` **oraz** `doc`
 
 
 ## Następca
